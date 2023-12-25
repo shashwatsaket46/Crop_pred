@@ -34,3 +34,10 @@ The project significantly enhanced crop prediction accuracy and provided valuabl
 
 *Future Work:*
 Future work could involve exploring additional metaheuristic algorithms and expanding the spatial mapping to include physical features of India.
+The results of the single output labels using the logistic regression.
+![image](https://github.com/shashwatsaket46/Crop_pred/assets/52482910/c5f428a2-63c0-4385-b991-651b2f4c3bb3)
+he result of the multiple crops as available to the dataset
+![image](https://github.com/shashwatsaket46/Crop_pred/assets/52482910/6921d12e-dd78-40df-84c1-82822f95de52)
+The crop prediction result after the modelled approaches.
+![image](https://github.com/shashwatsaket46/Crop_pred/assets/52482910/63b72a8f-1a8e-48fc-92dc-f8dc97611fcf)
+
