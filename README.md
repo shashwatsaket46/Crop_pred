@@ -1,6 +1,7 @@
 **Project: Spatial and Temporal Optimization of Crop Prediction**
 *Project Description:*
 Developed an advanced crop prediction system leveraging machine learning and metaheuristic techniques. The project focused on feature engineering and optimization using power transformer, quantile transformer, and principal component analysis. Metaheuristic algorithms such as cuckoo search, particle swarm optimization, and ant colony optimization were employed to refine and map spatial and time variant features.
+![image](https://github.com/shashwatsaket46/Crop_pred/assets/52482910/3e933de1-68fc-4d58-9d12-91cb80e2353f)
 
 *Technical Skills:*
 - Machine Learning
